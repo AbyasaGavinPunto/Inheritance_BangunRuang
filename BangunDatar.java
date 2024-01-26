@@ -8,5 +8,8 @@ public class BangunDatar {
     }
     
     
-    
+    float keliling (){
+        System.out.println("Menghitung keliling bangun datar");
+        return 0;
+    }
 }
