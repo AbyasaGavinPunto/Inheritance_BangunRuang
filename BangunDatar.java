@@ -7,12 +7,6 @@ public class BangunDatar {
         return 0;        
     }
     
-    float apa(){
-        return 0;
-    }
     
-    float keliling (){
-        System.out.println("Menghitung keliling bangun datar");
-        return 0;
-    }
+    
 }
